@@ -11,6 +11,8 @@ vscode:
     - vscjava.vscode-spring-boot-dashboard
     - anwar.papyrus-pdf
 
+    - vmware.vscode-spring-boot
+
 # Commands to run on start
 tasks:
   - init: echo 'Initialization commands can go here'
